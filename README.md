@@ -11,10 +11,10 @@
 
 # Running Tests
 
-1. It is run based on scenario or feature by pressing the green RUN button on the IDE.
+1. It can be run based on scenario or feature by pressing the green RUN button on the IDE.
 
 
-2. Scenarios determined on the JUnit runner are run again by pressing the green RUN button.
+2. Scenarios determined on the JUnit runner can be run again by pressing the green RUN button.
 
 
 3. `Running it via CLI by giving 'Runner class' and 'tagname'.
