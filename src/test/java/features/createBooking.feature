@@ -6,6 +6,7 @@ Feature:Create Booking Feature
     And header Content-Type = 'application/json'
     * def createData = read("classpath:data/createBookingData.json")
 
+    @smoke
   Scenario: Create Booking
     And request createData
     When method post
